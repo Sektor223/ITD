@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\IT\repos\ITD\main.cpp(47,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\IT\repos\ITD\main.cpp(66,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\IT\repos\ITD\main.cpp(74,55): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\IT\repos\ITD\main.cpp(97,43): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  ITD.vcxproj -> E:\IT\repos\ITD\x64\Debug\ITD.exe
