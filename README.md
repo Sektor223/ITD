@@ -1,1 +1,1 @@
-Interaural time diffirence
+Interaural time difference
